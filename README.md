@@ -11,7 +11,7 @@ Entendendo as mudanças do Java 8.
 ![Captura de ecrã de 2022-02-20 18-07-51](https://user-images.githubusercontent.com/78432629/154864357-74de84ea-9e8d-4175-bbbc-ff8862aefcf1.png)
 
 
-*Ordenando Strings com Method references*
+*Ordenando Strings com Method References*
 
 ![Captura de ecrã de 2022-02-20 18-08-43](https://user-images.githubusercontent.com/78432629/154864395-75b6cfb6-38c4-4ab1-9cb9-0666a9ba8f9b.png)
 
@@ -23,7 +23,7 @@ Entendendo as mudanças do Java 8.
 * Lambdas
 * Métodos de uma interface funcional
 * Threads com lambda!
-* Method references
+* Method References
 * Comparator.comparing()
 * Streams
 * Map
